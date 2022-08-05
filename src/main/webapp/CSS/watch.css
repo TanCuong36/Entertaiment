@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: Roboto, Arial, sans-serif;
+}
+
+.navbar-light {
+	margin-left: 20px;
+}
+
+.btn-dark {
+	margin-left: 10px;
+	border-radius: 100px;
+}
+
+.input-group {
+	margin: auto;
+	margin-top: 10px;
+	width: 75%;
+}
+
+.container-fluid {
+	width: 95%;
+}
+
+.btn-outline-danger {
+	margin-top: 10px;
+}
+
+.col-sm-4>.row {
+	margin-bottom: 10px;
+}
+
+.col-9>button {
+	float: right;
+}
+
+.title {
+	font-family: Roboto, Arial, sans-serif;
+	font-size: 18px;
+	position: relative;
+	left: -20px;
+}
